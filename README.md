@@ -4,7 +4,9 @@
 ## Using
 If you'd like to learn more about Rust, you can visit <https://www.rust-lang.org/learn>
 
-[install Rust]: https://www.rust-lang.org/tools/install
+
+To install Rust, click [here](https://www.rust-lang.org/tools/install)
+
 
 ```bash
 cd simple-rust-scraper
