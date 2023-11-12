@@ -1,0 +1,7 @@
+/home/manu/Desktop/projects/rust_web_scrapper/target/debug/deps/phf_shared-dccfffa1be85bbe3.rmeta: /home/manu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf_shared-0.8.0/src/lib.rs
+
+/home/manu/Desktop/projects/rust_web_scrapper/target/debug/deps/libphf_shared-dccfffa1be85bbe3.rlib: /home/manu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf_shared-0.8.0/src/lib.rs
+
+/home/manu/Desktop/projects/rust_web_scrapper/target/debug/deps/phf_shared-dccfffa1be85bbe3.d: /home/manu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf_shared-0.8.0/src/lib.rs
+
+/home/manu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf_shared-0.8.0/src/lib.rs:
