@@ -9,6 +9,6 @@ To install Rust, click [here](https://www.rust-lang.org/tools/install)
 
 
 ```bash
-cd Rust-scraper
+cd Rust-web-scraper
 cargo run
 ```
